@@ -1,6 +1,10 @@
 # Click Adventure
 
+<<<<<<< HEAD
 Made as an example game for the text adventure library [Verbum Plus.](https://github.com/RossTheDev/verbumplus)
+=======
+Made as an example game for the text adventure library [Verbum Plus.](https://github.com/totallylegitgames/verbumplus)
+>>>>>>> e6edee0646326fd17c79e4e24b4c7a406470b6f0
 
 # Under the hood
 -HTML, CSS, & JS based in electron. (Made with Verbum+)
@@ -25,6 +29,10 @@ npm start
 # Status: 
 VERY early development. Hoping to have a playable almost finished build by mid to the end of Q1 2020.
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 =======
 >>>>>>> 5a8ec43ccb67a0dcc4d31b7062ca543eb789e46a
+=======
+
+>>>>>>> e6edee0646326fd17c79e4e24b4c7a406470b6f0
