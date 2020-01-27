@@ -81,6 +81,13 @@ font-size: 40px;
 
 }
 
+p.filler2
+{
+
+font-size: 30px;
+padding: 0;
+
+}
 
 a:link {
     color: red;
@@ -99,4 +106,14 @@ a:hover {
 /* selected link */
 a:active {
     color: blue;
+}
+
+div
+{
+  padding-top: 0;
+}
+
+img
+{
+  padding-top: 0;
 }
