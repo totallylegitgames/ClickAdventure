@@ -1,6 +1,6 @@
 # Click Adventure
 
-Made as an example game for the text adventure library [Verbum Plus.](https://github.com/RossTheDev/verbumplus)
+Made as an example game for the text adventure library [Verbum Plus.](https://github.com/totallylegitgames/verbumplus)
 
 # Under the hood
 -HTML, CSS, & JS based in electron. (Made with Verbum+)
