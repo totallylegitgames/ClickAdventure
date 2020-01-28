@@ -14,7 +14,7 @@ Made as an example game for the text adventure library [Verbum Plus.](https://gi
 
 ```
 # Clone this repository
-https://github.com/totallylegitgames/ClickAdventure
+git clone https://github.com/totallylegitgames/ClickAdventure
 # Go into the repository
 cd ClickAdventure
 # Install dependencies
