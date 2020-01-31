@@ -1,12 +1,12 @@
 {
-  "name": "verbumplus",
+  "name": "ClickAdventure",
   "version": "0.0.1",
-  "description": "sample",
+  "description": "A colonial era text adventure",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "repository": "https://github.com/RossTheDev/verbumplus",
+  "repository": "https://github.com/totallylegitgames/ClickAdventure",
   "keywords": [
     "text",
     "adventure",
